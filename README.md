@@ -1,4 +1,4 @@
 # gitdemo
 HTML,CSS,JAVA SCRIPT
 <br>
-owner: Mohid Sufi 
+owner: Mohid Naveed Sufi
